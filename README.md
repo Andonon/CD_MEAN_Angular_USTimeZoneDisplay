@@ -1,3 +1,12 @@
+# CD_MEAN_Angular_USTimeZoneDisplay
+Troy Center troycenter1@gmail.com July 2017
+Coding Dojo MEAN stack, Angular Fundamentals, US TimeZone Display assignment (working with forms).
+
+## US Timezone Display
+Create an app which displays the current time based on the time-zone the user selects as shown below in the wireframe. The most recent button clicked should appear with a yellow background.
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-USTimeZoneDisplay.png" alt="Coding Dojo Assignment Image">
+
 # Timezone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
